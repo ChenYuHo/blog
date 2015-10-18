@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://elton.idv.tw/blog/all-tags/index.html</loc>
+    <lastmod>2015-10-18T08:13:57.654Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elton.idv.tw/blog/all-categories/index.html</loc>
+    <lastmod>2015-10-18T08:13:50.044Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elton.idv.tw/blog/all-archives/index.html</loc>
+    <lastmod>2015-10-18T08:13:38.851Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elton.idv.tw/blog/tw/2015/10/18/hi/</loc>
+    <lastmod>2015-10-17T16:45:45.701Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elton.idv.tw/blog/en/2015/10/18/hello-world/</loc>
+    <lastmod>2015-10-17T04:01:21.731Z</lastmod>
+  </url>
+  
+</urlset>
